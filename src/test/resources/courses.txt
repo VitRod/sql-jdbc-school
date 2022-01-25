@@ -1,0 +1,10 @@
+math,course of Mathematics
+biology,course of Biology
+chemistry,course of Chemistry
+physics,course of Physics
+philosophy,course of Philosophy
+drawing,course of Drawing
+literature,course of Literature
+English,course of English
+geography,course of Geography
+physical training,course of Physical training
