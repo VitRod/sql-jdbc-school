@@ -1,3 +1,3 @@
 # sql-jdbc-school
 
-Console  application  with JDBC           
+Console  application  with JDBC              
