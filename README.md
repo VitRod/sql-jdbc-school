@@ -2,34 +2,3 @@
 
 Console  application  with JDBC                 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
